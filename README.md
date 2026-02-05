@@ -1,10 +1,10 @@
 # LuxeBristo
 
-Um projeto web moderno e elegante desenvolvido com HTML e CSS.
+Um projeto web moderno e elegante de um restaurante fictício desenvolvido com HTML e CSS.
 
 ## 📋 Sobre o Projeto
 
-LuxeBristo é uma aplicação web front-end que demonstra práticas modernas de desenvolvimento web utilizando HTML semântico e estilização CSS avançada.
+LuxeBristo é uma aplicação web front-end de um restaurante, que demonstra práticas modernas de desenvolvimento web utilizando HTML semântico e estilização CSS avançada.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -17,5 +17,6 @@ LuxeBristo é uma aplicação web front-end que demonstra práticas modernas de 
 - CSS moderno e organizado
 - Código semântico e acessível
 
-
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+<br>
+Deploy do projeto: https://luxe-bistro.netlify.app/
